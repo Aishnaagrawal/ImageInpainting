@@ -8,3 +8,4 @@ To showcase our project, we made a flask-based web application tool. The tool as
 
 The following figure shows the result from our model displayed on the web app. 
 
+![Webapp](results/webapp.jpeg)
