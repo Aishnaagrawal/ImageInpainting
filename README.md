@@ -21,3 +21,18 @@ The following images shows the steps:
 The following figure shows the result from our model displayed on the web app. 
 
 >>>>>>>>>>>>>> ![output](results/output.jpeg) 
+
+Some other results obtained from our models 
+
+>> Autoencoder decoder
+
+![output](results/ensemble.jpeg) 
+
+>> Ensemble
+>> 
+![output](results/ensemble.jpeg)  
+
+>> GAN
+>> 
+![output](results/ensemble.jpeg) 
+
