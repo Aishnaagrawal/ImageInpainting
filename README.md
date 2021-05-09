@@ -39,6 +39,10 @@ Some other results obtained from our models
 <img width="400" src="./results/ensemble.jpeg">
 </p>  
 
+<p align="center">
+<img width="400" src="./results/male_ensemble.jpeg">
+</p> 
+
 * GAN
 <p align="center">
 <img width="400" src="./results/ensemble.jpeg">
