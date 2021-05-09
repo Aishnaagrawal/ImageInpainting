@@ -40,7 +40,7 @@ Some other results obtained from our models
 </p>  
 
 <p align="center">
-<img width="400" src="./results/male_ensemble.jpeg">
+<img width="400" src="./results/male_ensemble.png">
 </p> 
 
 * GAN
