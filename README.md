@@ -27,6 +27,10 @@ Analysing these approaches and based on our observations, we decided to improvis
 <img width="400" src="./results/output.jpeg">
 </p>
 
+<p align="center">
+<img width="400" src="./results/sir.png">
+</p>
+
 Some other results obtained from our models 
 
 * Autoencoder decoder
