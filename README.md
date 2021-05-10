@@ -10,6 +10,7 @@ Analysing these approaches and based on our observations, we decided to improvis
 </p>
 
 <p>To showcase our project, we made a flask-based web application tool. The tool asks for input images from the user. The input image will be masked using the mask selected by the user. The masked image is processed by the model and the backend(which loads the saved model) processes and gives the outputs.</p>
+<p>Create a "Output" folder inside "static" folder before running app.py</p>
 <p align="center">
 <img width="400" src="./results/webapp.jpeg">
 </p>
@@ -49,6 +50,6 @@ Some other results obtained from our models
 
 * GAN
 <p align="center">
-<img width="400" src="./results/gan.png">
+<img width="400" src="./results/ensemble.jpeg">
 </p>
 
