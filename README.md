@@ -46,3 +46,5 @@ Some other results obtained from our models
 </p>
 
 * [Pre-Trained Model](https://drive.google.com/drive/folders/1FuTXiJc9DKdBuWZ7MPyUs7vLKjbdclyu?usp=sharing)
+
+>> Note : model were run on google cloud platform 
