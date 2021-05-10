@@ -10,12 +10,9 @@ Analysing these approaches and based on our observations, we decided to improvis
 <img width="400" src="./results/webapp.jpeg">
 </p>
 
-<p>The following images shows the steps:</p>
+<p>The following gif shows the steps:</p>
 <p align="center">
-<img width="400" src="./results/step1.jpeg">
-</p>
-<p align="center">
-<img width="400" src="./results/step2.jpeg">
+<img width="500" src="./results/steps.gif">
 </p>
 
 <p>The following figure shows the result from our model displayed on the web app.</p>
