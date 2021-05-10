@@ -31,7 +31,7 @@ Some other results obtained from our models
 
 * Autoencoder decoder
 <p align="center">
-<img width="400" src="./results/ensemble.jpeg">
+<img width="400" src="./results/unet.jpeg">
 </p>
 
 * Ensemble
