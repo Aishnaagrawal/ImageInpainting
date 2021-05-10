@@ -1,0 +1,154 @@
+html{
+    left: 0;
+    top: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    /* background-image: linear-gradient(to bottom,#d1eafb, #fff,#d1eafb);  */
+    /* background: #d1eafb; */
+    /* background-image: ; */
+    background-color: rgba(0, 0, 0, 0.8);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.bg{
+    position: fixed;
+    top: 0;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    z-index: -10;
+    opacity: 0.3;
+    background-image: url("./Mask/bg2.jpeg");
+
+}
+
+.bg>img{
+    height: 100%;
+}
+
+.title{
+    /* border: 2px solid red; */
+    text-align: center;
+    font-size: 25px;
+    padding: 25px;
+    
+}
+
+.title>h1{
+    padding: 5px;
+    border-bottom: 2px solid grey;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
+
+.steps{
+    width: 60%;
+    margin: auto;
+    /* margin: 40px 0; */
+    /* padding-left: 200px; */
+    margin-bottom: 40px;
+    color: white;
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    border-radius: 10px;
+}
+.sul{
+    list-style: decimal;
+}
+
+.sli{
+    /* font-weight: 600; */
+    padding: 3px;
+    width: 70%;
+    margin: auto;
+    font-size: 20px;
+    /* display: flex; */
+}
+
+.sub{
+    width: 70%;
+    margin: auto;
+}
+
+.avatar-pic {
+    width: 256px;
+    height: 256px;
+}
+
+.row{
+    width: 100%;
+    display: inline-block;
+}
+
+.forum-image{
+    display: flex;
+    justify-content:space-evenly;
+    /* flex-direction: column; */
+    align-items:center;
+    padding: 20px;
+    margin: auto;
+}
+
+
+.forum-mask{
+    display: flex;
+    justify-content:space-evenly;
+    /* flex-direction: column; */
+    align-items:center;
+    padding: 20px;
+    margin: auto;
+}
+
+select{
+    padding: 3px 10px;
+}
+
+/* RESULT */
+
+.photo{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* background-color: rgb(158, 155, 155); */
+}
+
+.photo>h3{
+    margin: 10px 0 0 0;
+}
+.content{
+    width: 100%;
+}
+
+.btn-group{
+    display: block;
+    width: 90%;
+    margin: 100px auto 80px auto;
+}
+.gallery{
+    /* border: 2px solid black; */
+    display: flex;
+    width: 70%;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+
+}
