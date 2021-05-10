@@ -45,3 +45,4 @@ Some other results obtained from our models
 <img width="400" src="./results/gan.png">
 </p>
 
+* [Pre-Trained Model](https://drive.google.com/drive/folders/1FuTXiJc9DKdBuWZ7MPyUs7vLKjbdclyu?usp=sharing)
