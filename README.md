@@ -49,6 +49,6 @@ Some other results obtained from our models
 
 * GAN
 <p align="center">
-<img width="400" src="./results/ensemble.jpeg">
+<img width="400" src="./results/gan.png">
 </p>
 
